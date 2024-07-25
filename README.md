@@ -19,7 +19,7 @@ I used the Amazon Electronics Rating Dataset from Kaggle, which provides user ra
 - **Singular Value Decomposition (SVD)**: Apply SVD to decompose the rating matrix and improve recommendation accuracy.
 - **Evaluating the Model**: Assess the performance of the recommendation system using metrics like RMSE.
 
-- Certainly! Here’s a concise version of the key learnings for GitHub:
+
 
 ---
 
